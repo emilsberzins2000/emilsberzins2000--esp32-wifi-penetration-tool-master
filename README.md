@@ -1,4 +1,4 @@
-You will need a esp
+You will need a esp32
 
 Flash here:https://esp.huhn.me
 Bootloader 0x1000
