@@ -9,4 +9,4 @@ When it is made connect to
 ssid:ManagementAP
 Password:mgmtadmin
 
-And the abracadabra
+And then abracadabra
